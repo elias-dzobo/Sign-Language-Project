@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.70a5c02a-b7eb-11eb-bf65-4023438229e8.jpg</filename>
+	<path>D:\Projects\Sign-Lang\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no.70a5c02a-b7eb-11eb-bf65-4023438229e8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>223</ymin>
+			<xmax>376</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
